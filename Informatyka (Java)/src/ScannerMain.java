@@ -1,3 +1,4 @@
+//13.09.2024
 import java.util.Scanner;
 
 public class ScannerMain {
