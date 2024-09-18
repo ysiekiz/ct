@@ -1,7 +1,7 @@
 //13.09.2024
 import java.util.Random;
 
-public class Random.test{
+public class Randomzadanie{
     public static void main(String[] args){
         Random rand = new Random();
         int los1 = rand.nextInt(-10, 10);
